@@ -11,10 +11,6 @@ This is just where some files that the tool needs are stored until they get down
 
 ```
 a-ac/
-    scripts/
-        checker.py
-        parser.py
-        processor.py
     temp/
         demo-holder/
             -
